@@ -1,6 +1,6 @@
 - Interested in DevOps projects, since DevOps is a big field which contains many subfields here are the ones i am most interested as of today, in order of interest:
 - Networking to learn the workings of how the data is send accross and the different layers in TCP/IP .. application, transport, network, data-link, physical.
-- Linux administration (Bash scripting)
+- Linux administration (Mainly Red Hat distros)
 - Cloud (Azure as of now)
 - Docker
 - Kubernetes
